@@ -1,1 +1,1 @@
-# atelieru_digital
+# atelierul_digital
