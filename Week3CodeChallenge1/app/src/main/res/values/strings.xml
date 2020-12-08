@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeChallengeEx1Login</string>
+    <string name="title">LOGIN</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPhone">Phone</string>
+    <string name="conditions">I accept T&amp;C</string>
+    <string name="submit">Submit</string>
+</resources>
