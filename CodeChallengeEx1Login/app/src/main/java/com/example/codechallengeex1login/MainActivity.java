@@ -47,7 +47,7 @@ public class MainActivity<emailPattern> extends AppCompatActivity {
                 {
                     cb=false;
                 }
-                tv.setText("Input email:"+email+"\nInput Phone:"+phone+"\nInput checkBox"+cb.toString());
+                tv.setText("Input email:"+email+"\nInput Phone:"+phone+"\nInput checkBox"+cb.toString());git checkout
             }
         });
 
