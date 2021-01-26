@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696482073462",
+    "firebase_url": "https://trip-journal-69e3a.firebaseio.com",
+    "project_id": "trip-journal-69e3a",
+    "storage_bucket": "trip-journal-69e3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696482073462:android:a2bb5918d87fce2c",
+        "android_client_info": {
+          "package_name": "com.example.traveljournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696482073462-4ud29g655uufd1ulff624uhoau0295pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdT4_nPkNigL37fdzAXqgAK1PE9cTmV0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696482073462-4ud29g655uufd1ulff624uhoau0295pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
